@@ -1,0 +1,5 @@
+The sum of the multiples of three or five less than 1,000 is 233,168.
+
+The sum of the even fibonacci numbers less than 4 million is 4,613,732.
+
+The largest prime factor of the number 600,851,475,143 is 6,857.
